@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dmartinez01 &#8211; dmartinez01</title>
+	<atom:link href="/author/dmartinez01/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Dec 2021 19:50:52 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Segundo Proyecto en Flutter: AgenFor NoteBook</title>
+		<link>/2021/12/03/segundo-proyecto-en-flutter-agenfor-notebook/</link>
+					<comments>/2021/12/03/segundo-proyecto-en-flutter-agenfor-notebook/#respond</comments>
+		
+		<dc:creator><![CDATA[dmartinez01]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 18:01:01 +0000</pubDate>
+				<category><![CDATA[Informática]]></category>
+		<guid isPermaLink="false">/?p=107</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<!--themify_builder_content-->
+<div id="themify_builder_content-107" data-postid="107" class="themify_builder_content themify_builder_content-107 themify_builder tf_clear">
+    	<!-- module_row -->
+	<div  data-lazy="1" class="module_row themify_builder_row tb_2dfk46 tb_first tf_clearfix">
+	    		<div class="row_inner col_align_top tf_box tf_w tf_rel">
+			<div  data-lazy="1" class="module_column tb-column col-full first tb_tn5u47 tf_box">
+			    	        <div class="tb-column-inner tf_box tf_w">
+		    <!-- module fancy heading -->
+<div  class="module module-fancy-heading tb_eoj9142 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <h1 class="fancy-heading">
+    <span  class="main-head tf_block">
+					Segundo Proyecto en Flutter		    </span>
+    <span class="sub-head tf_block tf_rel">
+					AgenFor: NoteBook		    </span>
+    </h1>
+</div>
+<!-- /module fancy heading -->
+<!-- module plain text -->
+<div  class="module module-plain-text tb_hrlj328 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="tb_text_wrap">
+	<!-- wp:paragraph -->
+<p>Con la publicación de mi primera aplicación, decidí hacer una App un poco mas formal y no mas orientada a las risas, sino que tuviese un ámbito un poco mas formal o productivo por así decirlo. Me puse a pensar en las distintas posibilidades que tenia, pero en mi mente rondaba la idea de crear un programa con una ambiente tipo zen o relajado.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Por ello, con la imagen en mi cabeza de un diario debido al personaje de Grumete, me apareció la idea de una agenda virtual, que te permitiese hacer todo tipo de cosas. Así fue como surgió el nombre de <span style="text-decoration:underline;">Agen</span>da para In<span style="text-decoration:underline;">for</span>máticos, saliendo así AgenFor: NoteBook.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Una vez me puse a programar, vi una soltura descomunal a la hora de plasmar mis ideas que tenia a nivel de programacion, no veia dificultad ninguna en poder crear cualquier cosa que me plantease lo que me facilitó el trabajo para poder crear todo los aspectos que queria incluir en dicha agenda:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Lo primero de todo que quería hacer, era crear un apartado de noticias tecnológicas, donde recogiese información sobre las noticias que iban ocurriendo a tiempo real en todas las partes del mundo, al principio me costo un poco entender como recibir la información en archivos .json, pero poco a poco llegue al entendimiento y conseguir mostrar pon pantallas las noticias mas relevantes para los informáticos.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Por otro lado, quería crear una sección para el estudio, basado en la técnicas del pomodoro, con diferentes sesión de estudio para conseguir siempre rendir el 100% a la hora de estudiar como para trabajar.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Lo siguiente que me hice fue crearme una sección para consultar información para poder resolver las dudas que se me pudieran plantear, generando así una especie de biblioteca digital donde pudiese consultar los libros de mis asignaturas cuando yo quisiese en cuestión de segundos.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>También programe un apartado para poder planificar mis asuntos personales con un calendario y con el acceso a una especie de agenda donde pudiese apuntar una serie de notas y tener recordatorios.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Lo siguiente que hice fue crearme otro mini juego para poder descansar entre tiempos del pomodoro o si simplemente uno estuviese aburrido para poder entretenerse, con un sistema de puntaciones subida en la nube para poder competir contra otras personas.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Una de las ultimas cosas que hice fue crear un sección de mensajería propia,, utilizando una base de datos guardada en firebase que me permitiese crear chats en tiempo real y  que las personas que se descargasen la app pudiesen conocerse los unos y preguntarse dudas en los foros especializados para cada rama de la informática.</li><li>Por ultimo, añadí un apartado de opciones con diferentes funciones como poder valorar la aplicación, ver una introduccion a la aplicacion o incluso poder ver la descripcion de la App Diario de un Grumete o la politica de privacidad de AgenFor: NoteBook.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Este proyecto también ha sido un placer de realizar, sin embargo, ha sido difícil compaginar los estudios con la elaboración de dicha aplicación, pero una vez terminada muestra un gran grado de satisfacción y ahora mismo esta pendiente de ser subida en Google Play Store por lo que os mantendré informados sobre próximas noticias.</p>
+<!-- /wp:paragraph -->    </div>
+</div>
+<!-- /module plain text --><!-- module image -->
+<div  class="module module-image tb_hbsu532 rounded drop-shadow bordered  image-center tf_mw" data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="image-wrap tf_rel tf_mw">
+		    <img width="512" height="250" src="/wp-content/uploads/2021/12/unnamed.png" class="wp-post-image wp-image-77" title="unnamed" alt="unnamed">	
+		</div>
+	<!-- /image-wrap -->
+    
+    	</div>
+<!-- /module image --><!-- module buttons -->
+<div  class="module module-buttons tb_wrfd972 buttons-horizontal solid  xlarge tf_textc" data-lazy="1" data-lax-translate-y="(vh*1) 0,(vh*0) -70" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+    	<div class="module-buttons-item tf_inline_b">
+							<a href="https://play.google.com/store/apps/details?id=com.david.diario_grumete" class="ui builder_button orange" target="_blank" rel="noopener">
+											<span class="tf_inline_b tf_vmiddle">Ver Aplicación</span>
+											</a>
+			    	</div>
+	</div>
+<!-- /module buttons -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/03/segundo-proyecto-en-flutter-agenfor-notebook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Primer Proyecto en Flutter: Diario de un Grumete</title>
+		<link>/2021/12/03/primer-proyecto-en-flutter-diario-de-un-grumete/</link>
+					<comments>/2021/12/03/primer-proyecto-en-flutter-diario-de-un-grumete/#respond</comments>
+		
+		<dc:creator><![CDATA[dmartinez01]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 18:00:30 +0000</pubDate>
+				<category><![CDATA[Informática]]></category>
+		<guid isPermaLink="false">/?p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<!--themify_builder_content-->
+<div id="themify_builder_content-105" data-postid="105" class="themify_builder_content themify_builder_content-105 themify_builder tf_clear">
+    	<!-- module_row -->
+	<div  data-lazy="1" class="module_row themify_builder_row tb_prwu663 tf_clearfix">
+	    		<div class="row_inner col_align_top tf_box tf_w tf_rel">
+			<div  data-lazy="1" class="module_column tb-column col-full first tb_xstb663 tf_box">
+			    	        <div class="tb-column-inner tf_box tf_w">
+		    <!-- module fancy heading -->
+<div  class="module module-fancy-heading tb_d0p8893 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <h1 class="fancy-heading">
+    <span  class="main-head tf_block">
+					Primer Proyecto en Flutter		    </span>
+    <span class="sub-head tf_block tf_rel">
+					Diario de un Grumete		    </span>
+    </h1>
+</div>
+<!-- /module fancy heading -->
+<!-- module plain text -->
+<div  class="module module-plain-text tb_5smy39 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="tb_text_wrap">
+	<!-- wp:paragraph -->
+<p>Todo comenzó porque se me quedo un mal sabor de boca, al no poder realizar ninguna aplicación con este lenguaje, entonces un día decidí ponerme manos a la obra y empezar un nuevo proyecto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Realmente no sabia como abordarlo y no tenia ninguna idea concreta sobre qué lo que iba a hacer, pero dándole vueltas a la cabeza se me ocurrió realizar una especie de diario sobre un «Grumete», personaje creado en el circulo social de mis amigos de la universidad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Por ello, cuando empecé con el proyecto, se me iban ocurriendo muchas ideas, pero con pocas soluciones practicas ya que era un inexperto en el dominio tanto de la plataforma como de su lenguaje. Sin embargo, a base de pico y pala y mucha paciencia, conseguí ir haciendo avances:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>En primer lugar conseguí crear una serie de Widgets que contuviesen la información con los diferentes días del diario, para poder contar las aventuras del pequeño Grumete. No fue fácil, ya que realmente no sabia como funcionaba bien la elaboración de listas y la muestra por pantalla, aunque al final conseguí dar con el clavo y crear una lista básica para poder ver los días.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Una vez creada la lista, vi que la interfaz era muy fea, por lo que me puse a diseñar como quería que se viese la aplicación antes de ponerme a programarla. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Me conseguí crear un PageView mas o menos decente, al menos no daba tanta pena como antes, y una vez tenia hecho la base del programa, me cree una SplashScreen para simular el inicio de la aplicación dándole un poco de dinamismo. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Con la interfaz de los días creados, pensé en la movilidad del programa y vi necesario la implementación de una «appbar», para poder navegar por las distintas paginas que tuviese el programa, lo que me llevo a crearme una especie de menú para poder elegir distintas opciones:<ul><li>Bibliografía: aquí realmente escribí una descripción breve sobre mi, diciendo que era un escritor y que me encantaba el mar, para darle un poco mas de ambiente. </li><li>Personajes: luego describí poco a poco los personajes mas importantes que aparecían en el diario de grumete, dándole una cierta imagen o perspectiva de la vida real.</li><li>Video: también elabore una especie de video para que la gente pudiese entender de manera mas visual la historia y las hazañas del pequeño bribón dándole un tono mas épico.</li><li>Bombas Grumete: añadí un pequeño mini-juego para darle variedad e interacción con la aplicación.</li><li>Chat Grumete: aquí elabora un pequeño chat básico donde pudieras hablar con Grumete, el cual tiene por predeterminado una serie de respuesta dependiendo de lo que le escribas, para conseguir llevarlo a la realidad.</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li>Por ultimo, me cree el «Barco de Grumete», un juego basico inspirado en el mitico juego del dinosaurio de Google Chrome, donde tienes que salta y esquivar a los enemigos, los cuales son personajes ilustrados en su diario. Esta parte fue bastante dura de crear, ya que era necesario implementar mucha logica al programa que me permitiese por ejemplo, generar diferentes enemigos a distintas distancias, crear un mar infinito&#8230; etc.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Realmente me lo pase en grande creando este proyecto ya que realmente puedes ir viendo poco a poco los avances que estas realizando de una manera visual e interactiva lo que hace que te enganche un poquito mas de lo normal y es uno de los motivos por lo que no deje el proyecto a medias y pude finalmente acabarlo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Una vez tuve la aplicación hecha, realice una serie de capturas básicas sobre la aplicación y me propuse publicarlo en Google Play Store no con un motivo en especial, sino para poder ver como funciona la gestión de aplicaciones dentro de esta plataforma y que me sirva de aprendizaje para mi desarrollo personal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Os dejo el link de la app:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://play.google.com/store/apps/details?id=com.david.diario_grumete\u0026amp;hl=es_419\u0026amp;gl=US","type":"rich","providerNameSlug":"embed"} -->
+<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed"><div class="wp-block-embed__wrapper">
+https://play.google.com/store/apps/details?id=com.david.diario_grumete&hl=es_419&gl=US
+</div><figcaption>Y como decía Grumete:</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>«<em>Pirata hoy, pirata siempre</em>«</p>
+<!-- /wp:paragraph -->    </div>
+</div>
+<!-- /module plain text --><!-- module image -->
+<div  class="module module-image tb_aom4218 rounded drop-shadow bordered  image-center tf_mw" data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="image-wrap tf_rel tf_mw">
+		    <img src="/wp-content/uploads/2021/12/iniciiooo.png" width="700" height="341" class="wp-post-image wp-image-87" title="iniciiooo" alt="iniciiooo">	
+		</div>
+	<!-- /image-wrap -->
+    
+    	</div>
+<!-- /module image --><!-- module buttons -->
+<div  class="module module-buttons tb_h7s4787 buttons-horizontal solid  xlarge tf_textc" data-lazy="1" data-lax-translate-y="(vh*1) 0,(vh*0) -70" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+    	<div class="module-buttons-item tf_inline_b">
+							<a href="https://play.google.com/store/apps/details?id=com.david.diario_grumete" class="ui builder_button orange" target="_blank" rel="noopener">
+											<span class="tf_inline_b tf_vmiddle">Ver Aplicación</span>
+											</a>
+			    	</div>
+	</div>
+<!-- /module buttons -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/03/primer-proyecto-en-flutter-diario-de-un-grumete/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Programa Baloncesto</title>
+		<link>/2021/12/03/programa-baloncesto/</link>
+					<comments>/2021/12/03/programa-baloncesto/#respond</comments>
+		
+		<dc:creator><![CDATA[dmartinez01]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 17:59:39 +0000</pubDate>
+				<category><![CDATA[Informática]]></category>
+		<guid isPermaLink="false">/?p=102</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<!--themify_builder_content-->
+<div id="themify_builder_content-102" data-postid="102" class="themify_builder_content themify_builder_content-102 themify_builder tf_clear">
+    	<!-- module_row -->
+	<div  data-lazy="1" class="module_row themify_builder_row tb_q6my851 tf_clearfix">
+	    		<div class="row_inner col_align_top tf_box tf_w tf_rel">
+			<div  data-lazy="1" class="module_column tb-column col-full first tb_37b3852 tf_box">
+			    	        <div class="tb-column-inner tf_box tf_w">
+		    <!-- module fancy heading -->
+<div  class="module module-fancy-heading tb_fnrp413 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <h1 class="fancy-heading">
+    <span  class="main-head tf_block">
+					Programa Baloncesto		    </span>
+    <span class="sub-head tf_block tf_rel">
+					Realizado en C++		    </span>
+    </h1>
+</div>
+<!-- /module fancy heading -->
+<!-- module plain text -->
+<div  class="module module-plain-text tb_622n216 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="tb_text_wrap">
+	<!-- wp:paragraph -->
+<p><em>Todo surge cuando yo decido ayudar a mi hermano con su proyecto de fin de grado, como esta estudiando INEF, dicho trabajo va orientado al deporte, en concreto sobre el baloncesto. Tras una larga charla, decide que debemos realizar un programa para poder anotar rápidamente las jugadas claves que el veía conveniente.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Entonces decidí ponerme manos a la obra, y empecé a plantear como quería hacer el programa, si hacer una aplicación, si hacerlo a través de una pagina web o ir a lo seguro y hacer un programa de C++ que es el terreno que yo mas dominaba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Entonces me plantee las alternativas y según el tiempo que tenia decidí hacerlo a través de C++ ya que no disponía de mucho tiempo para trabajar. Una vez ya estando tecleando o picando código, decidí hacer como un menú muy básico para poder ir contando las jugadas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Tenia la idea de que quería meter toda la información en un Excel con sus estadísticas correspondientes para poder hacerlo mas manejable.</li><li>Por otro lado, también quería mostrarlo por pantalla para poder tener una imagen mas o menos visual de lo que estaba pasando.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>La primera parte fue fácil de hacer, empecé creando un menú básico, para ver que sucedían en cada una de las jugadas. Pero a medida que programaba, iba siendo cada vez mas complicado, ya que el reunir todo tipo de información provocaba tener una gran lista de variables consiguiendo así una estructura bastante larga pero no compleja a través de bucles y switches. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Una vez tenia toda la información almacenada, simplemente tenia que hacer unos cálculos sencillos para poder sacar todo tipo de porcentajes bastantes específicos en este deporte. Por ultimo, decidí almacenarlo todo estos datos en un Excel para que quede guardado de cierta manera y no sea algo temporal.</p>
+<!-- /wp:paragraph -->    </div>
+</div>
+<!-- /module plain text --><!-- module image -->
+<div  class="module module-image tb_1haa81 rounded drop-shadow bordered  image-center tf_mw" data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="image-wrap tf_rel tf_mw">
+		    <img src="/wp-content/uploads/2021/12/Captura-de-pantalla-2021-12-03-184201.png" width="700" height="406" class="wp-post-image wp-image-88" title="Captura de pantalla 2021-12-03 184201" alt="Captura de pantalla 2021-12-03 184201">	
+		</div>
+	<!-- /image-wrap -->
+    
+    	</div>
+<!-- /module image --><!-- module buttons -->
+<div  class="module module-buttons tb_ir75199 buttons-horizontal solid  xlarge tf_textc" data-lazy="1" data-lax-translate-y="(vh*1) 0,(vh*0) -70" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+    	<div class="module-buttons-item tf_inline_b">
+							<a href="/wp-content/uploads/2021/12/Programa-Baloncesto.zip" class="ui builder_button orange" target="_blank" rel="noopener">
+											<span class="tf_inline_b tf_vmiddle">Descargar Programa</span>
+											</a>
+			    	</div>
+	</div>
+<!-- /module buttons -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/03/programa-baloncesto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>El Inicio de Flutter</title>
+		<link>/2021/12/03/el-proyecto-flutter/</link>
+					<comments>/2021/12/03/el-proyecto-flutter/#respond</comments>
+		
+		<dc:creator><![CDATA[dmartinez01]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 17:59:11 +0000</pubDate>
+				<category><![CDATA[Informática]]></category>
+		<guid isPermaLink="false">/?p=100</guid>
+
+					<description><![CDATA[El Inicio de FlutterDonde todo comenzó&#8230; Todo esto comienza, cuando le comento a mi compañero de realizar una aplicacion para movil, pero en lugar de &#8230;]]></description>
+										<content:encoded><![CDATA[<!--themify_builder_content-->
+<div id="themify_builder_content-100" data-postid="100" class="themify_builder_content themify_builder_content-100 themify_builder tf_clear">
+    	<!-- module_row -->
+	<div  data-lazy="1" class="module_row themify_builder_row tb_vbqt37 tf_clearfix">
+	    		<div class="row_inner col_align_top tf_box tf_w tf_rel">
+			<div  data-lazy="1" class="module_column tb-column col-full first tb_mtl938 tf_box">
+			    	        <div class="tb-column-inner tf_box tf_w">
+		    <!-- module fancy heading -->
+<div  class="module module-fancy-heading tb_0a9k390 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <h1 class="fancy-heading">
+    <span  class="main-head tf_block">
+					El Inicio de Flutter		    </span>
+    <span class="sub-head tf_block tf_rel">
+					Donde todo comenzó...		    </span>
+    </h1>
+</div>
+<!-- /module fancy heading -->
+<!-- module plain text -->
+<div  class="module module-plain-text tb_d6t2408 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="tb_text_wrap">
+	<!-- wp:paragraph -->
+<p><em>Todo esto comienza, cuando le comento a mi compañero de realizar una aplicacion para movil, pero en lugar de comenzar con algo sencillo, me comenta sobre la idea de utilizar Flutter, el cual es el &#8216;Software&#8217; utilizado por Google y por muchos otros. </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dicho software utiliza el lenguaje de programación Dart, el cual en mi opinión es uno de los mas complejos que hay y donde se añaden bastantes conceptos nuevos por lo que para novatos como nosotros resulta casi imposible poder realizar una aplicación de manera independiente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Por eso, decidimos empezar a realizar tutoriales básico de Flutter a través de su pagina web, donde tras realizar bastante horas de &#8216;entrenamiento&#8217;, empezamos a realizar un proyecto básico por nuestra cuenta, este se trataba de una agenda de contactos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pero para nuestra desgracia, este proyecto se nos complico a la hora de utilizar SQL ya que se metía en unos conceptos un poco complejos, por lo que a la hora de corregir los fallos no sabíamos realmente que estaba provocando dichos errores, por lo que poco a poco se fue apagando la llama de dicho proyecto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yo por mi cuenta intente realizar algunos intentos de proyectos, como es por ejemplo, el uso de API para poder crear una lista de gifs extraídos de internet a través de un filtro de los mas populares entre otras ideas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pero este proyecto sigue a la espera de poder ser realizado, y espero que en algún momento seamos capaces de poder finalizarlo ya que no me gusta dejar las cosas a medias.</p>
+<!-- /wp:paragraph -->    </div>
+</div>
+<!-- /module plain text --><!-- module image -->
+<div  class="module module-image tb_jkp4513 rounded drop-shadow bordered  image-center tf_mw" data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="image-wrap tf_rel tf_mw">
+		    <img src="/wp-content/uploads/2021/12/pexels-marc-mueller-325111.jpg" width="700" height="466" class="wp-post-image wp-image-89" title="pexels-marc-mueller-325111" alt="pexels-marc-mueller-325111">	
+		</div>
+	<!-- /image-wrap -->
+    
+    	</div>
+<!-- /module image -->	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/03/el-proyecto-flutter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Juego en Unity 3D</title>
+		<link>/2021/12/03/juego-en-unity-3d/</link>
+					<comments>/2021/12/03/juego-en-unity-3d/#respond</comments>
+		
+		<dc:creator><![CDATA[dmartinez01]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 17:57:41 +0000</pubDate>
+				<category><![CDATA[Informática]]></category>
+		<guid isPermaLink="false">/?p=98</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<!--themify_builder_content-->
+<div id="themify_builder_content-98" data-postid="98" class="themify_builder_content themify_builder_content-98 themify_builder tf_clear">
+    	<!-- module_row -->
+	<div  data-lazy="1" class="module_row themify_builder_row tb_1n54961 tf_clearfix">
+	    		<div class="row_inner col_align_top tf_box tf_w tf_rel">
+			<div  data-lazy="1" class="module_column tb-column col-full first tb_kew7963 tf_box">
+			    	        <div class="tb-column-inner tf_box tf_w">
+		    <!-- module fancy heading -->
+<div  class="module module-fancy-heading tb_vi7i142 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <h1 class="fancy-heading">
+    <span  class="main-head tf_block">
+					Juego en Unity 3D		    </span>
+    <span class="sub-head tf_block tf_rel">
+					El inicio de los proyectos		    </span>
+    </h1>
+</div>
+<!-- /module fancy heading -->
+<!-- module plain text -->
+<div  class="module module-plain-text tb_s74t967 " data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="tb_text_wrap">
+	<!-- wp:paragraph -->
+<p><em>La idea surgió cuando quería realizar un juego de aventuras inspirado en el clasico Skyrim: The elder Scrolls V. Por lo que me adentre en el mundo de desarrolladores de juegos, y me instale Unity para poder comenzar.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La idea principal, era crear un juego de aventuras y que fuese de mundo abierto, ya que siempre me ha gustado no tener limitaciones a la hora de jugar un juego o tener que seguir una misión estrictamente. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Por lo que en mi lluvia de ideas, salió de mi cabeza hacer un mundo abierto &#8216;aéreo&#8217;, es decir, que el mundo se desarrollase en islas voladoras que se fuese generando aleatoriamente en el mapa y de manera infinita. Pero eso si, quería que hubiese una pequeña introducción donde hubiese una isla principal con un pueblo, y que desde ese punto saliese la historia del protagonista.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La principal mecánica era poder ir volando de isla en isla, en una especie de vela inspirada en el Planeta del Tesoro, una de mis películas favoritas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Una vez puestos a programar, solo conseguí hacer lo básico, como es que el muñeco se moviese en todas las direcciones y saltar, además de crear una cámara en primera persona y en tercera persona.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>El problema fue cuando quise ir a mas allá, ya que no domino el lenguaje de programación C#, añadiendo la dificultad de tener que hacer un juego en 3D con los ángulos de Euler, etc. Al final me quede estancado como siempre, pero es un proyecto que me gustaría retomar en algún futuro no muy lejano.</p>
+<!-- /wp:paragraph -->    </div>
+</div>
+<!-- /module plain text --><!-- module image -->
+<div  class="module module-image tb_n3dn129 rounded drop-shadow bordered  image-center tf_mw" data-lazy="1" data-lax-opacity="(vh*1) 0,(vh*0) 1" data-lax="true" data-lax-anchor="self">
+        <div class="image-wrap tf_rel tf_mw">
+		    <img src="/wp-content/uploads/2021/12/pexels-soumil-kumar-735911.jpg" width="700" height="467" class="wp-post-image wp-image-90" title="pexels-soumil-kumar-735911" alt="pexels-soumil-kumar-735911">	
+		</div>
+	<!-- /image-wrap -->
+    
+    	</div>
+<!-- /module image -->	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/03/juego-en-unity-3d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
